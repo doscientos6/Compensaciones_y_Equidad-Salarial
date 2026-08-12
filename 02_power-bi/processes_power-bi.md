@@ -19,13 +19,14 @@ El modelo sigue el esquema clásico de la base "employees"
 (Postgres), adaptado para análisis de equidad salarial y compensaciones. Está organizado en un esquema de copo de nieve liviano con `employees` como tabla central.
 
 ## 4. KPIs descriptivos
-
+# Se crea una primera página donde se busca dar contexto de la empresa para poder ayudar posteriormente al entendimiento de las respuestas de las preguntas de negocio.
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/60791887-61ef-4902-b361-77cde227e9f7" />
 <img width="1309" height="732" alt="image" src="https://github.com/user-attachments/assets/eb43e333-9136-4ece-a590-b47a9ef53d1c" />
 
 Creamos la primera página del dashboard donde se encontrarían los KPIs descriptivos para entender el contexto de la empresa.
 
 ## 5. Análisis
-
+# Se hace uso de diferentes visualizaciones que logren responder de una forma clara las diferentes preguntas de negocio que postulamos anteriormente.
 <img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/60791887-61ef-4902-b361-77cde227e9f7" />
 
 Por último se crean diferentes visualizaciones donde se busca poder responder las preguntas de negocio de una forma fácil de entender.
