@@ -106,7 +106,7 @@ SELECT *
 FROM salaries
 WHERE salary <= 0;
 
--- D. -- 2. VALORES DE GÉNERO FUERA DE LO ESPERADO
+-- D. VALORES DE GÉNERO FUERA DE LO ESPERADO
 -- (esperamos solo 'M' o 'F')
 SELECT DISTINCT gender, COUNT(*) AS cantidad
 FROM employees
