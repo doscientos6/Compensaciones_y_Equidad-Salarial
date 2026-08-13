@@ -24,6 +24,8 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 ### Fase 3: Análisis
 
+---
+
 Resumen
 
 La empresa (300 mil empleados, 9 departamentos) es homogénea en antigüedad, edad y género — ninguna de estas variables explica diferencias salariales. El verdadero problema está en Staff y Senior Staff, los dos puestos con mayor dispersión salarial, sin una causa demográfica clara detrás.
