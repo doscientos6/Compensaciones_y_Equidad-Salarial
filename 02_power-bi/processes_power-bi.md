@@ -16,7 +16,7 @@ Utilizando el perfil de la columna y distribución de la columna para poder veri
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/40e791c0-00ee-488e-9a20-f7ef596af375" />
 
 El modelo sigue el esquema clásico de la base "employees" 
-(Postgres), adaptado para análisis de equidad salarial y compensaciones. Está organizado en un esquema de copo de nieve liviano con `employees` como tabla central.
+(Postgres), adaptado para análisis de equidad salarial y compensaciones. Está organizado en un esquema de copo de nieve liviano con `employees` como tabla de hechos.
 
 ## 4. KPIs descriptivos
 # Se crea una primera página donde se busca dar contexto de la empresa para poder ayudar posteriormente al entendimiento de las respuestas de las preguntas de negocio.
